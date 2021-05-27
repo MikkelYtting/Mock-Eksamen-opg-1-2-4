@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "PLSuaeqXLqBVleKOWMlb6+tstXC+9FmY/3drInB/af2I2gq8zyZjTgdcVdY3jLozm+oWjMbQkoJ6o/DZtsgg1A==",
+  "success": true,
+  "projectFilePath": "C:\\3. semester Programmering LOKALT\\Mock eksamen 2\\HopWebApp\\HopWebApp\\HopWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikkel\\.nuget\\packages\\elasticsearch.net\\7.13.0\\elasticsearch.net.7.13.0.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\nest\\7.13.0\\nest.7.13.0.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Mikkel\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

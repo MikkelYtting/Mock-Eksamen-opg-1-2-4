@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\3. semester Programmering LOKALT\\Mock eksamen 2\\HopWebApp\\HopWebApp\\HopWebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\3. semester Programmering LOKALT\\Mock eksamen 2\\HopClassLib\\HopClassLib\\HopClassLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3. semester Programmering LOKALT\\Mock eksamen 2\\HopClassLib\\HopClassLib\\HopClassLib.csproj",
+        "projectName": "HopClassLib",
+        "projectPath": "C:\\3. semester Programmering LOKALT\\Mock eksamen 2\\HopClassLib\\HopClassLib\\HopClassLib.csproj",
+        "packagesPath": "C:\\Users\\Mikkel\\.nuget\\packages\\",
+        "outputPath": "C:\\3. semester Programmering LOKALT\\Mock eksamen 2\\HopClassLib\\HopClassLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mikkel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\3. semester Programmering LOKALT\\Mock eksamen 2\\HopWebApp\\HopWebApp\\HopWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\3. semester Programmering LOKALT\\Mock eksamen 2\\HopWebApp\\HopWebApp\\HopWebApp.csproj",
+        "projectName": "HopWebApp",
+        "projectPath": "C:\\3. semester Programmering LOKALT\\Mock eksamen 2\\HopWebApp\\HopWebApp\\HopWebApp.csproj",
+        "packagesPath": "C:\\Users\\Mikkel\\.nuget\\packages\\",
+        "outputPath": "C:\\3. semester Programmering LOKALT\\Mock eksamen 2\\HopWebApp\\HopWebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mikkel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\3. semester Programmering LOKALT\\Mock eksamen 2\\HopClassLib\\HopClassLib\\HopClassLib.csproj": {
+                "projectPath": "C:\\3. semester Programmering LOKALT\\Mock eksamen 2\\HopClassLib\\HopClassLib\\HopClassLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NEST": {
+              "target": "Package",
+              "version": "[7.13.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
